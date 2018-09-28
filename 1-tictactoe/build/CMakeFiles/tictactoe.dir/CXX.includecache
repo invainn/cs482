@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/tictac_support.h
+string
+-
+
+/Users/jj/cs482-fall2018/1-tictactoe/src/tictac_turnin.cc
+tictac_support.h
+-
+stdio.h
+-
+iostream
+-
+climits
+-
+

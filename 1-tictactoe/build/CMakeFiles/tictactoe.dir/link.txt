@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++   -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/tictactoe.dir/src/tictac.cc.o CMakeFiles/tictactoe.dir/src/tictac_support.cc.o CMakeFiles/tictactoe.dir/src/tictac_turnin.cc.o  -o tictactoe 

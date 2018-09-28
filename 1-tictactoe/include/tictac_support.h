@@ -58,6 +58,8 @@ int save_board( std::string filename, int board[][3] );
 		(returns 1 by default, 0 if no move made)
 **/
 
+int check_winning_state(int board[][3], int player1, int player2);
+
 int make_move( int board[][3] );
 
 #endif
